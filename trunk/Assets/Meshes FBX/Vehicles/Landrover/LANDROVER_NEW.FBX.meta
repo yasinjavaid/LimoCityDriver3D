@@ -1,0 +1,117 @@
+fileFormatVersion: 2
+guid: 080936ba7612d497f97ee015709808b4
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Back_Left_Tyre
+    100002: Back_Right_Tyre
+    100004: BODY
+    100006: door_handle_ds_1
+    100008: door_handle_ps_01_1
+    100010: driver_side_door_1
+    100012: Front_Left_Tyre
+    100014: Front_Right_Tyre
+    100016: //RootNode
+    100018: passenger_side_door_1
+    100020: polySurface23
+    100022: polySurface32
+    100024: polySurface33
+    400000: Back_Left_Tyre
+    400002: Back_Right_Tyre
+    400004: BODY
+    400006: door_handle_ds_1
+    400008: door_handle_ps_01_1
+    400010: driver_side_door_1
+    400012: Front_Left_Tyre
+    400014: Front_Right_Tyre
+    400016: //RootNode
+    400018: passenger_side_door_1
+    400020: polySurface23
+    400022: polySurface32
+    400024: polySurface33
+    2300000: Back_Left_Tyre
+    2300002: Back_Right_Tyre
+    2300004: door_handle_ds_1
+    2300006: door_handle_ps_01_1
+    2300008: driver_side_door_1
+    2300010: Front_Left_Tyre
+    2300012: Front_Right_Tyre
+    2300014: passenger_side_door_1
+    2300016: polySurface23
+    2300018: polySurface32
+    2300020: polySurface33
+    3300000: Back_Left_Tyre
+    3300002: Back_Right_Tyre
+    3300004: door_handle_ds_1
+    3300006: door_handle_ps_01_1
+    3300008: driver_side_door_1
+    3300010: Front_Left_Tyre
+    3300012: Front_Right_Tyre
+    3300014: passenger_side_door_1
+    3300016: polySurface23
+    3300018: polySurface32
+    3300020: polySurface33
+    4300000: Front_Left_Tyre
+    4300002: Back_Right_Tyre
+    4300004: Front_Right_Tyre
+    4300006: Back_Left_Tyre
+    4300008: polySurface32
+    4300010: polySurface33
+    4300012: door_handle_ps_01_1
+    4300014: door_handle_ds_1
+    4300016: passenger_side_door_1
+    4300018: polySurface23
+    4300020: driver_side_door_1
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 

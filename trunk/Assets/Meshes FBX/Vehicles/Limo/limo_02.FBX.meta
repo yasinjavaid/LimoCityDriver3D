@@ -1,0 +1,100 @@
+fileFormatVersion: 2
+guid: 521ebe86e8f69d644babe171ac03b0ad
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: Hummer_Limousine:Wheel01
+    100002: Hummer_Limousine:Wheel02
+    100004: Hummer_Limousine:Wheel03
+    100006: Hummer_Limousine:Wheel04
+    100008: //RootNode
+    100010: Object001
+    100012: Object005
+    100014: Object009
+    100016: Object010
+    400000: Hummer_Limousine:Wheel01
+    400002: Hummer_Limousine:Wheel02
+    400004: Hummer_Limousine:Wheel03
+    400006: Hummer_Limousine:Wheel04
+    400008: //RootNode
+    400010: Object001
+    400012: Object005
+    400014: Object009
+    400016: Object010
+    2300000: Hummer_Limousine:Wheel01
+    2300002: Hummer_Limousine:Wheel02
+    2300004: Hummer_Limousine:Wheel03
+    2300006: Hummer_Limousine:Wheel04
+    2300008: Object001
+    2300010: Object005
+    2300012: Object009
+    2300014: Object010
+    3300000: Hummer_Limousine:Wheel01
+    3300002: Hummer_Limousine:Wheel02
+    3300004: Hummer_Limousine:Wheel03
+    3300006: Hummer_Limousine:Wheel04
+    3300008: Object001
+    3300010: Object005
+    3300012: Object009
+    3300014: Object010
+    4300000: Hummer_Limousine:Wheel01
+    4300002: Hummer_Limousine:Wheel02
+    4300004: Hummer_Limousine:Wheel03
+    4300006: Hummer_Limousine:Wheel04
+    4300008: Object001
+    4300010: Object005
+    4300012: Object009
+    4300014: Object010
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0170000009
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 0
+  userData: 

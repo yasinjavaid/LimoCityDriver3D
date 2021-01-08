@@ -1,0 +1,105 @@
+fileFormatVersion: 2
+guid: de9cdcb3571cf4428a7295e6ce273819
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: back_light_left
+    100002: back_light_right004
+    100004: door002
+    100006: MercTaxi
+    100008: //RootNode
+    100010: Object002
+    100012: tyre_back_left
+    100014: tyre_Back_Right
+    100016: tyre_front_left
+    100018: tyre_front_Right
+    400000: back_light_left
+    400002: back_light_right004
+    400004: door002
+    400006: MercTaxi
+    400008: //RootNode
+    400010: Object002
+    400012: tyre_back_left
+    400014: tyre_Back_Right
+    400016: tyre_front_left
+    400018: tyre_front_Right
+    2300000: back_light_left
+    2300002: back_light_right004
+    2300004: door002
+    2300006: MercTaxi
+    2300008: Object002
+    2300010: tyre_back_left
+    2300012: tyre_Back_Right
+    2300014: tyre_front_left
+    2300016: tyre_front_Right
+    3300000: back_light_left
+    3300002: back_light_right004
+    3300004: door002
+    3300006: MercTaxi
+    3300008: Object002
+    3300010: tyre_back_left
+    3300012: tyre_Back_Right
+    3300014: tyre_front_left
+    3300016: tyre_front_Right
+    4300000: MercTaxi
+    4300002: Object002
+    4300004: tyre_Back_Right
+    4300006: tyre_front_Right
+    4300008: door002
+    4300010: tyre_front_left
+    4300012: tyre_back_left
+    4300014: back_light_left
+    4300016: back_light_right004
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .0399999991
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    handles: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  additionalBone: 1
+  animationType: 2
+  userData: 
